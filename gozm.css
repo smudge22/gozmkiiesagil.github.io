@@ -1,0 +1,33 @@
+body {
+font-family:monospace;
+color:#FFFFFF;
+font-size:25px; 
+}
+
+p {
+font-family:monospace;
+color:#FFFFFF;
+font-size:30px; 
+}
+
+h2 {
+font-family:monospace;
+color:#FFFFFF;
+font-size:25px; 
+}
+
+b {
+color:#FFFFFF;
+text-decoration:none;
+font-family:monospace;
+font-size:30px;
+}
+
+a:link, a:visited, a:active{
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.div1 {
+color:#000000
+}
